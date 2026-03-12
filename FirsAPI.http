@@ -1,0 +1,6 @@
+@FirsAPI_HostAddress = http://localhost:5169
+
+GET {{FirsAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
